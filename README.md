@@ -3,6 +3,7 @@ System design from course project IIT CS513
 
 for Automatic Lens Smear Detection
 Goal: 
+
 Input: a sequence of street view imagesÂ (Links to an external site.)
 Output: a mask of the smear on the lens
 -1. PPT slides of your approach and both intermediate and final results
@@ -16,6 +17,7 @@ ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia)
 
 for Probe Data Analysis for Road Slope 
 Goal: 
+
 Input: Probe data and map (see the attachment)
 
 -The raw probe points in Germany collected in 9 months
