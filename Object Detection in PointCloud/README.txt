@@ -1,8 +1,11 @@
 Object Detection in PointCloud: Road Boundary
 		       	 		                  
 •Visualized the given point cloud, and then detected the road boundary and extracted it. 
+
 •Used the features of Difference of Normal, curvature, topology and smoothness to detect the boundary. 
+
 •Distinguished guardrail and filtered the points with ground truth and multi-dimensional Linear Discriminant Analysis. 
+
 •Implemented RANSAC to find the largest plane to remove the road in point cloud, and then divided the data into small trunks and used DBSCAN to assure the accuracy of clustering. 
 
 
